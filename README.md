@@ -1,10 +1,7 @@
-<h2 align="left">
-  Diogo Ribeiro
-  <h4 align="left">Front-End Developer @ <a target="_blank" href="https://redlight.dev/">RedLight</a><h4>
-</h2>
-    ##
+<h1 align="left">Diogo Ribeiro</h1>
+<h4 align="left">Front-End Developer @ <a target="_blank" href="https://redlight.dev/">RedLight</a><h4>
 
-###
+##
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" width="52" alt="storybook logo"  />
